@@ -1,0 +1,60 @@
+﻿@page "/contactdetails";
+@page "/contactdetails/{id:int}"
+
+@using FirstBlazorApp.Client.Services
+@inject IContactsService ContactService
+@inject NavigationManager NavigationManager
+
+<h3>Contact Details</h3>
+
+<EditForm Model="@contact">
+    <table class="table">
+        <tr>
+            <td>First Name:</td>
+            <td><input type="text" @bind="contact.FirstName" /></td>
+        </tr>
+        <tr>
+            <td>Last Name:</td>
+            <td><input type="text" @bind="contact.LastName" /></td>
+        </tr>
+        <tr>
+            <td>Phone:</td>
+            <td><input type="text" @bind="contact.Phone" /></td>
+        </tr>
+        <tr>
+            <td>Address:</td>
+            <td><input type="text" @bind="contact.Address" /></td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center">
+                <input type="submit" value="Save" @onclick="Save" />
+                <input type="button" value="Cancel" @onclick="Cancel" />
+            </td>
+        </tr>
+    </table>
+    
+
+</EditForm>
+
+@code {
+    public int id { get; set; }
+
+    Contact contact = new Contact();
+
+    protected async Task Save()
+    {
+        await ContactService.Save(contact);
+        NavigationManager.NavigateTo("/");
+    }
+
+    protected void Cancel()
+    {
+        NavigationManager.NavigateTo("/");
+    }
+
+    protected async override Task OnInitializedAsync()
+    {
+        if (id > 0)
+            contact = await ContactService.GetDetails(id);
+    }
+}

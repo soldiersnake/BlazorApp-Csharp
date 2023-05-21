@@ -1,0 +1,15 @@
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\bin\Debug\net6.0\FirstBlazorApp.Data.deps.json
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\bin\Debug\net6.0\FirstBlazorApp.Data.dll
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\bin\Debug\net6.0\FirstBlazorApp.Data.pdb
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\bin\Debug\net6.0\FirstBlazorApp.Shared.dll
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\bin\Debug\net6.0\FirstBlazorApp.Shared.pdb
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.csproj.AssemblyReference.cache
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.AssemblyInfoInputs.cache
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.AssemblyInfo.cs
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.csproj.CopyComplete
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.dll
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\obj\Debug\net6.0\refint\FirstBlazorApp.Data.dll
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\obj\Debug\net6.0\FirstBlazorApp.Data.pdb
+C:\Users\Mariano Macias\source\repos\FirstBlazorApp\FirstBlazorApp.Data\obj\Debug\net6.0\ref\FirstBlazorApp.Data.dll

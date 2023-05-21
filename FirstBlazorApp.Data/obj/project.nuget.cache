@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6fh5tJi1Y7vegVLfVUKbTwDSHNk7qPF8SPnPdrQDjBrvXmJsgC8+DsbnZwayp01BTWUeA+3nRebGMQpHr2WALw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mariano Macias\\source\\repos\\FirstBlazorApp\\FirstBlazorApp.Data\\FirstBlazorApp.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mariano Macias\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}
